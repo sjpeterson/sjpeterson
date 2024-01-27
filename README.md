@@ -1,8 +1,8 @@
 ### Hi, I'm Stefan!
 
-I am a software developer at Epiroc Mining Intelligence, part of the [Technology & Digital divion](https://www.epirocgroup.com/en/about-epiroc/our-businesses/technology-and-digital) of [Epiroc](https://www.epirocgroup.com/en). I do a bit of everything, if not professionally then as a hobby. From signal processing and algorithm development to full stack web development, data science and more. The same goes for programming languages, but my personal favourites are Haskell, Rust and Python. I want to like LISPs, but Haskell has spoiled me.
+I am a [software craftsman](https://manifesto.softwarecraftsmanship.org/) working as a quality assurance architect at Epiroc Mining Intelligence, part of [Epiroc](https://www.epirocgroup.com/en)'s Digital Solutions Division. I do a bit of everything, if not professionally then as a hobby. From signal processing and algorithm development to full stack web development, some light data science and more. In terms of programming languages, I enjoy variety, but have a particular fondness for Haskell and Rust.
 
-When I'm not in front of a monitor, I usually practice Brazillian jiu-jitsu and downhill unicycling, study languages, watch birds or knit.
+When I'm not in front of a monitor, I like to knit, do powerlifting, climbing, and downhill unicycling, study languages, watch birds, and more.
 
 
 <!--
